@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySubmissionApi!</string>
+    <string name="nickname">nickname github</string>
+    <string name="searchbar_hint">masukkan kata</string>
+    <string name="name1">NAME</string>
+    <string name="name2">name</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+</resources>
